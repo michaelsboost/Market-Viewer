@@ -18,7 +18,7 @@ MIT
 Tech
 -------------
 
-Crypto Paper Trader uses a small number of open source projects to work properly:
+Market Viewer uses a small number of open source projects to work properly:
 
 * [JQuery](https://jquery.com/) - duh
 * [Normalize](https://github.com/necolas/normalize.css) - CSS reset library
